@@ -1,6 +1,6 @@
 # Stack-Overflow-Developers-2023-Survey-EDA
 ## <u>Project Overview</u>
-This project involves conducting an exploratory data analysis (EDA) on the Stack Overflow Developer Survey 2023 dataset. For 13 years, Stack OverFlow has served as a platform for developer. Analysts, IT leaders, reporters, and other developers to stay up to date with the evolving developer experience, technologies that are rising or falling in favor, and to understand where tech might be going next. 2023 survey dived deep into AI/ML to capture how developers are thinking about it and using it in their workflows.
+This project involves conducting an exploratory data analysis (EDA) on the Stack Overflow Developer Survey 2023 dataset. For 13 years, Stack OverFlow has served as a platform for developer. Analysts, IT leaders, reporters, and other developers to stay up to date with the evolving developer experience, technologies that are rising or falling in favor, and to understand where tech might be going next. 2023 survey dived deep into how developers perceive and utilize artificial intelligence and machine learning in their workflows.
 
 
 ## <u>Data Source</u>
@@ -12,4 +12,4 @@ The goal is to perform a robust EDA, explore every parameter possibles and commu
 
     
 ## <u>Tools</u>
-Python libraries including Pandas, Matplotlib, and Seaborn.
+Python libraries including Numpy, Pandas, Matplotlib, and Seaborn.
