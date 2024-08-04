@@ -8,7 +8,7 @@ This project involves conducting an exploratory data analysis (EDA) on the Stack
 
     
 ## <u>Problem Statement</u>
-The goal is to perform a robust EDA, explore every parameter possibles and communicate insights via appropriate visuals. Educate us on the choice of visual and document your entire findings.  
+The goal is to perform a robust EDA, explore every parameter possible and communicate insights via appropriate visuals. Educate us on the choice of visual and document your entire findings.  
 
     
 ## <u>Tools Utilized</u>
